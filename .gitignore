@@ -1,0 +1,86 @@
+# Project exclude paths
+/.gradle/
+/Builders/Builders how it works/build/
+/Builders/Builders implementation/build/
+/Builders/Builders implementation/out/
+/Builders/Builders implementation/out/production/classes/
+/Builders/Function literals with receiver/build/
+/Builders/Html builders/build/
+/Builders/String and map builders/build/
+/Builders/The function apply/build/
+/Classes/Data classes/build/
+/Classes/Extension functions/build/
+/Classes/Rename on import/build/
+/Classes/Sealed classes/build/
+/Classes/Smart casts/build/
+/Collections/All Any and other predicates/build/
+/Collections/Associate/build/
+/Collections/Compound tasks/build/
+/Collections/Filter map/build/
+/Collections/FlatMap/build/
+/Collections/Fold/build/
+/Collections/Getting used to new style/build/
+/Collections/GroupBy/build/
+/Collections/Introduction/build/
+/Collections/Max min/build/
+/Collections/Partition/build/
+/Collections/Sequences/build/
+/Collections/Sort/build/
+/Collections/Sum/build/
+/Conventions/Comparison/build/
+/Conventions/For loop/build/
+/Conventions/Invoke/build/
+/Conventions/Operators overloading/build/
+/Conventions/Ranges/build/
+/Generics/Generic functions/build/
+/Introduction/Default arguments/build/
+/Introduction/Default arguments/out/
+/Introduction/Default arguments/out/production/classes/
+/Introduction/Default arguments/out/test/classes/
+/Introduction/Hello, world_/build/
+/Introduction/Hello, world_/out/
+/Introduction/Hello, world_/out/production/classes/
+/Introduction/Hello, world_/out/test/classes/
+/Introduction/Lambdas/build/
+/Introduction/Lambdas/out/
+/Introduction/Lambdas/out/production/classes/
+/Introduction/Lambdas/out/test/classes/
+/Introduction/Named arguments/build/
+/Introduction/Named arguments/out/
+/Introduction/Named arguments/out/production/classes/
+/Introduction/Named arguments/out/test/classes/
+/Introduction/Nothing type/build/
+/Introduction/Nothing type/out/
+/Introduction/Nothing type/out/production/classes/
+/Introduction/Nothing type/out/test/classes/
+/Introduction/Nullable types/build/
+/Introduction/Nullable types/out/
+/Introduction/Nullable types/out/production/classes/
+/Introduction/Nullable types/out/test/classes/
+/Introduction/String templates/build/
+/Introduction/String templates/out/
+/Introduction/String templates/out/production/classes/
+/Introduction/String templates/out/test/classes/
+/Introduction/Triple-quoted strings/build/
+/Introduction/Triple-quoted strings/out/
+/Introduction/Triple-quoted strings/out/production/classes/
+/Introduction/Triple-quoted strings/out/test/classes/
+/Properties/Delegates examples/build/
+/Properties/Delegates examples/out/
+/Properties/Delegates examples/out/production/classes/
+/Properties/Delegates examples/out/test/classes/
+/Properties/Delegates how it works/build/
+/Properties/Delegates how it works/out/
+/Properties/Delegates how it works/out/production/classes/
+/Properties/Delegates how it works/out/test/classes/
+/Properties/Lazy property/build/
+/Properties/Lazy property/out/
+/Properties/Lazy property/out/production/classes/
+/Properties/Lazy property/out/test/classes/
+/Properties/Properties/build/
+/Properties/Properties/out/
+/Properties/Properties/out/production/classes/
+/Properties/Properties/out/test/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/
